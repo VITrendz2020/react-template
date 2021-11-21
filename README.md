@@ -155,7 +155,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - []()
 - []()
 
-> Made with 💙 by Jainam Desai
+> Made with 💙 by name(github_username).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
